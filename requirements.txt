@@ -2,4 +2,4 @@ lime==0.2.0.1
 flask==2.3.2
 pandas==2.0.3
 seaborn==0.12.2
-gunicorn==21.2.0
+gunicorn==20.1.0
